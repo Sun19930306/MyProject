@@ -1,0 +1,30 @@
+	body{
+				background-color: #6fb3e0;
+				background-repeat: no-repeat;
+				
+			}
+			input{
+				margin: 20px 0;
+				margin-left:150px;
+				
+				width: 160px;
+				height: 30px;
+			}
+			img{
+			margin-left:150px;
+			}
+			
+			#d1{
+				position: absolute;
+				top: 50px;
+				left: 420px;
+				width: 35%;
+				height: 450px;
+				border: solid black 1px;
+				background: white;
+				padding: 40px 20px;
+			}
+			span{
+			position:relative;
+			
+			}
